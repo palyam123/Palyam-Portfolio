@@ -1,1 +1,2 @@
 Readme git is one of verstion control system
+maven is used for compile, test, package
